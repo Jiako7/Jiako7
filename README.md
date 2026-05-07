@@ -43,6 +43,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Jiako7/Jiako7/output/snake.svg" alt="Snake animation" />
-
 ###
